@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BattleForTheUniverse</string>
+    <string name="play">Play</string>
+    <string name="settings">Settings</string>
+    <string name="my_collection">My Collection</string>
+    <string name="shop">Shop</string>
+    <string name="open_packs">Open Packs</string>
+    <string name="friends">Friends</string>
+    <string name="Quests">Quests</string>
+    <string name="gold">0 xz</string>
+</resources>
